@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7137" started-at="2019-03-22T16:41:46Z" finished-at="2019-03-22T16:41:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7137" started-at="2019-03-22T16:41:46Z" finished-at="2019-03-22T16:41:53Z">
+      <class name="testautomation.assignmentIN3240.Task1User">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b]" name="beforeClass" is-config="true" duration-ms="3357" started-at="2019-03-22T16:41:46Z" finished-at="2019-03-22T16:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="createNewUser()[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b]" name="createNewUser" duration-ms="2912" started-at="2019-03-22T16:41:49Z" finished-at="2019-03-22T16:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="Summary(org.testng.ITestResult)[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b]" name="Summary" is-config="true" duration-ms="584" started-at="2019-03-22T16:41:52Z" finished-at="2019-03-22T16:41:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewUser status=SUCCESS method=Task1User.createNewUser()[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Summary -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b]" name="endTest" is-config="true" duration-ms="268" started-at="2019-03-22T16:41:53Z" finished-at="2019-03-22T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-03-22T16:41:53Z" finished-at="2019-03-22T16:41:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createNewUser status=SUCCESS method=Task1User.createNewUser()[pri:0, instance:testautomation.assignmentIN3240.Task1User@59fa1d9b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testautomation.assignmentIN3240.Task1User -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
